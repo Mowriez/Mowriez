@@ -1,47 +1,40 @@
 <div align="center">
-  <p>
-    <code> 🦛 This world needs more hippos 🦛 </code>
-  </p>
-  <p>
-    <code> Hi, I'm Maurice! Automotive engineer turned software enthusiast, currently studying software development at <a href= "https://42wolfsburg.de/">42Wolfsburg <img width="16px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a></code>
-  </p>
-
-  <p align="center">
-    <code> Want to get in contact? Shoot me a message on LinkedIn.<a href="https://www.linkedin.com/in/mtrautne/"><img width="32px" alt="LinkedIn" title="Find me on Linkedin" src="https://i.imgur.com/QtuMZjB.png"/> </a>
-  </p>
+	<!-- <code>🦛 This world needs more hippos 🦛</code><br> -->
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2800&pause=100&color=F7F7F7&center=true&random=false&width=435&height=30&separator=%3C&lines=%F0%9F%A6%9B+this+world+needs+more+hippos+%F0%9F%A6%9B" alt="Typing SVG" /></a><br>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2800&color=F7F7F7&center=true&random=false&width=435&height=30&separator=%3C&lines=while+(%F0%9F%A6%9B)+%7B%3CHippo.add(Melon);%3CHippo%2B%2B;%3C%7D" alt="Typing SVG" /></a> -->
 </div>
-<div>
-<p align="center">
-  
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+---
 
-- **Tools**:
+<div align="center">
+  <h5>Hi, I'm Maurice! 👋 I'm an automotive engineer turned software enthusiast,
+currently studying software development at 42 Wolfsburg.</h5>
+	<a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a>
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h5>🔭 I’m currently working on:</h5>
+<code>Developing a webserver (see <a href="https::github.com/Mowriez/webserv">webserv</a>) with <a href= "https://github.com/thule-re/">Thule Reeps</a> and <a href="https://github.com/tonywilliamspiano">Tony Williams</a></code> <br>
+<code>Getting better at C++ with 42's learning modules (see <a href"https://github.com/Mowriez/cpp-modules">cpp_modules)></a></code>
 
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
+  <h5>Shoot me a message on LinkedIn!</h5>
+	<a href="https://www.linkedin.com/in/mtrautne/"><img width="40px" alt="LinkedIn" src="https://i.imgur.com/QtuMZjB.png"/></a>
 </div>
+
+---
+
+<div align="center">
+  <h3> My current tech stack </h3>
+  <h4>I don't suck too much working with these languages</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bash, shell" /></a><br>
+
+  <h4>My active project should make me more proficient in these</h4>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,docker,html,css,js" /></a>
+
+  <h4> I'm also faily capable using these tools </h4>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /></a>
+</div>
+
+<p>last edited on: 11/16/2023</p>
