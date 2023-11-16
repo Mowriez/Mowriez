@@ -26,7 +26,7 @@ currently studying software development at 42 Wolfsburg.</h3>
   <h3> My current tech stack </h3>
   <h4>I don't suck too much working with these languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bash, shell" /></a><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bash" /></a><br>
 
   <h4>My active project should make me more proficient in these</h4>
     <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@ currently studying software development at 42 Wolfsburg.</h3>
 
   <h4> I'm also fairly capable using these tools </h4>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /></a>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" /></a>
 </div>
 
 <h5>last edited on: 11/16/2023</h5>
