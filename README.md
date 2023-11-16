@@ -17,7 +17,7 @@ currently studying software development at 42 Wolfsburg.</h3>
 <code>Getting better at C++ with 42's learning modules (see <a href="https://github.com/Mowriez/cpp-modules">cpp_modules</a>)</code>
 
   <h4>Shoot me a message on LinkedIn!</h4>
-	<a href="https://www.linkedin.com/in/mtrautne/"><img width="40px" alt="LinkedIn" src="https://i.imgur.com/QtuMZjB.png"/></a>
+	<a href="https://www.linkedin.com/in/mtrautner/"><img width="40px" alt="LinkedIn" src="https://i.imgur.com/QtuMZjB.png"/></a>
 </div>
 
 ---
