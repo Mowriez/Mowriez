@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Maurice</h1>
+<code>Hippos are underappreciated.</code>
 
 <!--
 **Mowriez/Mowriez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
