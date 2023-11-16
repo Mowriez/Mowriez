@@ -12,3 +12,5 @@
     </a>
 </p>
 </div>
+
+![42_Logo](https://github.com/Mowriez/Mowriez/assets/47814311/0fe15626-9f10-4dd5-b597-b5ee6c8f5e00)
