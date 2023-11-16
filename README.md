@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
   <p>
     <code> 🦛 This world needs more hippos 🦛 </code>
