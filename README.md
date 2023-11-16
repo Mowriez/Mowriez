@@ -13,8 +13,8 @@ currently studying software development at 42 Wolfsburg.</h3>
 	<a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a>
 
 <h3>🔭 I’m currently working on:</h3>
-<code>Developing a webserver (see <a href="https::github.com/Mowriez/webserv">webserv</a>) with <a href= "https://github.com/thule-re/">Thule Reeps</a> and <a href="https://github.com/tonywilliamspiano">Tony Williams</a></code> <br>
-<code>Getting better at C++ with 42's learning modules (see <a href="https://github.com/Mowriez/cpp-modules">cpp_modules)</a></code>
+<code>Developing a webserver (see <a href="https://github.com/Mowriez/webserv">webserv</a>) with <a href= "https://github.com/thule-re/">Thule Reeps</a> and <a href="https://github.com/tonywilliamspiano">Tony Williams</a></code> <br>
+<code>Getting better at C++ with 42's learning modules (see <a href="https://github.com/Mowriez/cpp-modules">cpp_modules</a>)</code>
 
   <h4>Shoot me a message on LinkedIn!</h4>
 	<a href="https://www.linkedin.com/in/mtrautne/"><img width="40px" alt="LinkedIn" src="https://i.imgur.com/QtuMZjB.png"/></a>
@@ -32,7 +32,7 @@ currently studying software development at 42 Wolfsburg.</h3>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,docker,html,css,js" /></a>
 
-  <h4> I'm also faily capable using these tools </h4>
+  <h4> I'm also fairly capable using these tools </h4>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /></a>
 </div>
