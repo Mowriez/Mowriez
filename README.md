@@ -4,12 +4,11 @@
   </p>
   <p>
     Hi, I'm Maurice! Automotive engineer turned software enthusiast, currently studying software development at 
-    <a href= "https://42wolfsburg.de/"><img width="16px" alt="42Logo" src="https://en.wikipedia.org/wiki/42_(school)#/media/File:42_Logo.svg"/></a>
+    <a href= "https://42wolfsburg.de/">
+    <img width="16px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/cd7696e8-7caa-4aff-b285-6654ac7d7780"/></a>
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/mtrautne/"><img width="32px" alt="LinkedIn" title="Find me on Linkedin" src="https://i.imgur.com/QtuMZjB.png"/>
     </a>
 </p>
 </div>
-
-![42_Logo](https://github.com/Mowriez/Mowriez/assets/47814311/cd7696e8-7caa-4aff-b285-6654ac7d7780)
