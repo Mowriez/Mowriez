@@ -1,7 +1,7 @@
 <div align="center">
 	<!-- <code>🦛 This world needs more hippos 🦛</code><br> -->
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2800&pause=100&color=F7F7F7&center=true&random=false&width=435&height=30&separator=%3C&lines=%F0%9F%A6%9B+this+world+needs+more+hippos+%F0%9F%A6%9B" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2800&pause=100&color=F7F7F7&center=true&random=false&width=435&height=30&separator=%3C&lines=%F0%9F%A6%9B+I+like+hippos+%F0%9F%A6%9B" alt="Typing SVG" /></a><br>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2800&color=F7F7F7&center=true&random=false&width=435&height=30&separator=%3C&lines=while+(%F0%9F%A6%9B)+%7B%3CHippo.add(Melon);%3CHippo%2B%2B;%3C%7D" alt="Typing SVG" /></a> -->
 </div>
 
@@ -24,15 +24,15 @@ currently studying software development at 42 Wolfsburg.</h3>
 
 <div align="center">
   <h3> My current tech stack </h3>
-  <h4>I don't suck too much working with these languages</h4>
+  <h4>I'm quite okay working with these languages</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bash" /></a><br>
 
-  <h4>My active project should make me more proficient in these</h4>
+  <h4>My active project should make me more proficient with these</h4>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,docker,html,css,js" /></a>
 
-  <h4> I'm also fairly capable using these tools </h4>
+  <h4>I'm also fairly capable using these tools</h4>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" /></a>
 </div>
