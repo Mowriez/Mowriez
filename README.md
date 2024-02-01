@@ -13,7 +13,7 @@ currently studying software development at 42 Wolfsburg.</h3>
 	<a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a>
 
 <h3>🔭 I’m currently working on:</h3>
-<code>Getting better at C++ with 42's learning modules (see <a href="https://github.com/Mowriez/cpp-modules">cpp_modules</a>)</code>
+<code>Getting better at C++ with 42's learning modules (see <a href="https://github.com/Mowriez/cpp-modules">cpp_modules</a>)</code><br>
 <code>Building a small container network to learn about system administration and automatic rollouts with docker. (see <a href="https://github.com/Mowriez/inception">inception</a>)</code>
 
   <h4>Shoot me a message on LinkedIn!</h4>
