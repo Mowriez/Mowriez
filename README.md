@@ -30,11 +30,11 @@ currently studying software development at 42 Wolfsburg.</h3>
 
   <h4>My active project should make me more proficient with these</h4>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,html,css,js" /></a>
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,python,django,postgres" /></a>
 
   <h4>I'm also fairly capable using these tools</h4>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" /></a>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,docker" /></a>
 </div>
 
 <h5>last edited on: 11/16/2023</h5>
