@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>Hi, I'm Maurice! 👋 I'm an automotive engineer turned software enthusiast,
-trained in the software engineering school 42  Wolfsburg.</h3>
+trained at the software engineering school 42  Wolfsburg.</h3>
 	<a href= "https://42wolfsburg.de/"><img width="40px" alt="42Logo" src="https://github.com/Mowriez/Mowriez/assets/47814311/c4339e9c-8060-4980-9aa6-f95d0484b510"/></a>
 
 <h3>🔭 I’m currently working on:</h3>
