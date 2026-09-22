@@ -1,8 +1,5 @@
 <div align="center">
-	<!-- <code>🦛 This world needs more hippos 🦛</code><br> -->
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2800&pause=100&color=F7F7F7&center=true&random=false&width=435&height=30&separator=%3C&lines=%F0%9F%A6%9B+I+like+hippos+%F0%9F%A6%9B" alt="Typing SVG" /></a><br>
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2800&color=F7F7F7&center=true&random=false&width=435&height=30&separator=%3C&lines=while+(%F0%9F%A6%9B)+%7B%3CHippo.add(Melon);%3CHippo%2B%2B;%3C%7D" alt="Typing SVG" /></a> -->
 </div>
 
 ---
