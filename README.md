@@ -33,4 +33,4 @@ trained at the coding school 42  Wolfsburg.</h3>
     <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,idea,postman" /></a>
 </div>
 
-<h5>last edited on: 9/22/2026</h5>
+<h5>last edited on: 10/1/2026</h5>
