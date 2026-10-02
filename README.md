@@ -22,7 +22,7 @@ trained at the coding school 42  Wolfsburg.</h3>
   <h3> My current tech stack </h3>
   <h4>I'm quite okay working with these technologies</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,azure,terraform,bash,docker" /></a><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,azure,terraform,bash,docker,c,cpp" /></a><br>
 
   <h4>My current project should make me more proficient with these</h4>
     <a href="https://skillicons.dev">
